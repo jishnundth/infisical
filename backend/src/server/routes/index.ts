@@ -4092,6 +4092,7 @@ export const registerRoutes = async (
     tokenService,
     pamSessionDAL,
     gatewayV2Service,
+    gatewayV2DAL,
     gatewayPoolService,
     kmsService,
     userDAL,
